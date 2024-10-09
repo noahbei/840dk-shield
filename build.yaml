@@ -20,3 +20,4 @@
 include:
   - board: nrf52840dk_nrf52840
     shield: 840dk
+    snippet: zmk-usb-logging
