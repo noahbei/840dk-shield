@@ -15,9 +15,9 @@
 
         bt_layer {
             bindings = <
-                &kp A           &kp Z
+                &kp Q           &kp Z
                 &bt BT_SEL 0    &bt BT_CLR
             >;
         };
     };
- };
+};
